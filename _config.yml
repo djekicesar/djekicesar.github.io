@@ -24,9 +24,9 @@ repository               : "djekicesar/djekicesar.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Dr. DJEKI Essohanam"
+  pronouns         : "He/His" # example: "she/her"  
+  bio              : "I am a cybersecurity researcher specializing in privacy-preserving technologies, digital identity, secure e-learning systems, and AI for cybersecurity. My research focuses on protecting personal data, privacy-enhancing technologies, digital trust, and secure digital transformation."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
