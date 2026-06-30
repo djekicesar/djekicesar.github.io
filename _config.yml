@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "DJEKI Essohanam / Research Portfolio"
+title                    : "DJEKI Essohanam"
 title_separator          : "-"
 name                     : &name "DJEKI Essohanam"
 description              : &description "DJEKI Essohanam's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "djekicesar/djekicesar.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. DJEKI Essohanam"
+  name             : "Dr. Essohanam DJEKI"
   pronouns         : "He/His" # example: "she/her"  
   bio              : "I am a cybersecurity researcher specializing in privacy-preserving technologies, digital identity, secure e-learning systems, and AI for cybersecurity. My research focuses on protecting personal data, privacy-enhancing technologies, digital trust, and secure digital transformation."
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Lomé - Togo"
+  employer         : "Ecole Polytechnique de Lomé - Université de Lomé "
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "essohanam.djeki@imsp-uac.org" 
 
   # Academic websites
   academia         : # URL
